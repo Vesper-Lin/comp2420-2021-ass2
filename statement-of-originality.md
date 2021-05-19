@@ -33,6 +33,10 @@ I declare that everything that I have submitted in this assignment is entirely m
     url: https://towardsdatascience.com/how-to-find-the-optimal-value-of-k-in-knn-35d936e554eb
     license: CC BY-SA
     
+  - comment: Normalize a confusion matrix
+    url: https://stackoverflow.com/questions/20927368/how-to-normalize-a-confusion-matrix
+    license: CC BY-SA
+    
 ### Assets:
   - comment: N/A
     url: N/A
