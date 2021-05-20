@@ -37,6 +37,14 @@ I declare that everything that I have submitted in this assignment is entirely m
     url: https://stackoverflow.com/questions/20927368/how-to-normalize-a-confusion-matrix
     license: CC BY-SA
     
+  - comment: Optimize hyper parameters of a DecisionTree model using Grid Search
+    url: https://www.dezyre.com/recipes/optimize-hyper-parameters-of-decisiontree-model-using-grid-search-in-python
+    license: CC BY-SA
+    
+  - comment: Plot the decision tree within Jupyter Notebook
+    url: https://piazza.com/class/kjv9890ejnl4rm?cid=463
+    license: CC BY-SA
+    
 ### Assets:
   - comment: N/A
     url: N/A
