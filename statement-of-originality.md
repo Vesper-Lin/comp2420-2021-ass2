@@ -45,6 +45,14 @@ I declare that everything that I have submitted in this assignment is entirely m
     url: https://piazza.com/class/kjv9890ejnl4rm?cid=463
     license: CC BY-SA
     
+  - comment: Plot grid scores from GridSearchCV
+    url: https://stackoverflow.com/questions/37161563/how-to-graph-grid-scores-from-gridsearchcv
+    license: CC BY-SA
+    
+  - comment: Rotating xticklabel of a Heatmap.
+    url: https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
+    license: CC BY-SA
+    
 ### Assets:
   - comment: N/A
     url: N/A
