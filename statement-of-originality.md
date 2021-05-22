@@ -60,6 +60,8 @@ I declare that everything that I have submitted in this assignment is entirely m
 
 ### References:
   - Mahendru, K., 2019. How to determine the optimal K for K-Means?. [online] Medium. Available at <https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb> [Accessed 13 May 2021].
+  
+  - Ceballos, F., 2019. Scikit-Learn Decision Trees Explained. [online] Towards Data Science. Available at: <https://towardsdatascience.com/scikit-learn-decision-trees-explained-803f3812290d> [Accessed 22 May 2021].
 
 
 ## Sign *your* name and uid here. 
