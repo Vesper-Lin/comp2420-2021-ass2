@@ -63,7 +63,13 @@ I declare that everything that I have submitted in this assignment is entirely m
   
   - Ceballos, F., 2019. Scikit-Learn Decision Trees Explained. [online] Towards Data Science. Available at: <https://towardsdatascience.com/scikit-learn-decision-trees-explained-803f3812290d> [Accessed 22 May 2021].
   
-  - Olejnik, L., Riemann, R. and Zerdick, T., 2020. Quantum Computing and Cryptography. TechDispatch, [online] #2/2020. Available at: <https://data.europa.eu/doi/10.2804/36404> [Accessed 23 May 2021].
+  - Olejnik, L., Riemann, R. and Zerdick, T., 2020. Quantum Computing and Cryptography. TechDispatch, [online]. Available at: <https://data.europa.eu/doi/10.2804/36404> [Accessed 23 May 2021].
+  
+  - Zimmer, M., 2010. “But the data is already public”: on the ethics of research in Facebook. Ethics and Information Technology, 12(4), pp.313-325.
+  
+  - Zimmer, M., 2016. OkCupid Study Reveals the Perils of Big-Data Science. [online] Wired. Available at: <https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/> [Accessed 23 May 2021].
+  
+  - Data WA. 2021. Guide and checklist to identifying and preparing data for release. [online] Available at: <https://toolkit.data.wa.gov.au/hc/en-gb/articles/115009694848-Guide-and-checklist-to-identifying-and-preparing-data-for-release> [Accessed 23 May 2021].
 
 
 ## Sign *your* name and uid here. 
