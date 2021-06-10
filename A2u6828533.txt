@@ -1,0 +1,72 @@
+                     ==============================
+                       COMP2420, Semester 1, 2021
+                         Assignment 2 Mark Sheet
+                     ==============================
+
+=======================================================
+  Uni Id  | Lab Group  | Tutor
+=======================================================
+ u6828533
+=======================================================
+
+Gitlab Repo : u6828533/comp2420-2021-ass2
+
+Marker: Jiyang Zheng
+
+Marks
+=====
+
+===========================================================
+ Q1. Clustering Videos for Transcoding
+   Q1.1                                          :    5/5
+   Q1.2                                          :    10/10
+   Q1.3                                          :    10/10
+
+ Q2. kNN Classification for Video Transcoding    :    15/20
+
+ Q3. Decision Trees for Digital Sky              :    20/20
+
+ Q4. Serious SQL
+   Q4.1                                          :    3/3
+   Q4.2                                          :    3/3
+   Q4.3                                          :    3/3
+   Q4.4                                          :    3/3
+   Q4.5                                          :    3/3
+   Q4.6                                          :    3/5
+
+ Q5. Ethics and Security
+   Q5.1                                          :    5/5
+   Q5.2                                          :    8/8
+   Q5.3                                          :    2/2
+
+ Penalty (if any)                                :    /100
+===========================================================
+   Total (max 100)                               :  93
+===========================================================
+
+
+Feedback
+========
+
+Clustering Videos for Transcoding
+---------------------------------
+
+
+
+kNN Classification for Video Transcoding
+----------------------------------------
+Need to visulise both train and test accuracy across a certain range to select the optimal value for k neighbours
+The zero accuracy to " Moderate" class indicates that the only using the score attribute will biased the model, hence need to re-think about your feature selection
+
+Decision Trees for Digital Sky
+------------------------------
+
+
+
+Serious SQL
+-----------
+
+
+
+Ethics and Security
+-------------------
